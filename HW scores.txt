@@ -1,0 +1,9 @@
+HW1 - 92/100.            messed up problem 6 (equivs)
+
+HW2 - 91.25/100.     messed up sorting methods
+
+HW3 - 90/100.            didnt do enough tests
+
+HW4 -  83/100            didnt do enough tests + some bugs in polynomial creation 
+
+HW5 -  100/100.
